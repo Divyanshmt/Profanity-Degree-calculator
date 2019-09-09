@@ -7,8 +7,7 @@ About files:
 
 
 OUTPUT STRUCTURE :
-input comment:  {Ramesh: you are dumb , so piss off from here} 
-input list of bad words {}
+
 Sentence ==>  you are dumb , so piss off from here ||||||| Degree of Profanity ==> 4
 
 
