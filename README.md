@@ -5,9 +5,9 @@ basically it calulates the degree of toleration of  bad comments to make it bloc
 About files:
 "profanityWords.json" contains list of profanity words with there degree in json format . "Comments.json" contains list of comments with user names . "index.html" Contains the fucntion which shows the degree of profanity in console
 
+Input : JSON files
 
 OUTPUT STRUCTURE :
-
 Sentence ==>  you are dumb , so piss off from here ||||||| Degree of Profanity ==> 4
 
 
