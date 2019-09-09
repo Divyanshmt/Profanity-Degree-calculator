@@ -8,7 +8,7 @@ index.html : Contains the fucntion which shows the degree of profanity in consol
 
 
 OUTPUT STRUCTURE :
-Sentence ==>  Hey u bitch , you are basterd ||||||| Degree of Profanity ==> 0 ;
+Sentence ==>  you are dumb , so piss off from here ||||||| Degree of Profanity ==> 4
 
 
 https://internshala.com/application/form/full-stack-development-internship-in-bangalore-at-affinityanswers1567662205
