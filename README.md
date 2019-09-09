@@ -11,3 +11,5 @@ OUTPUT STRUCTURE :
 Sentence ==>  Hey u bitch , you are basterd ||||||| Degree of Profanity ==> 0 ;
 
 
+https://internshala.com/application/form/full-stack-development-internship-in-bangalore-at-affinityanswers1567662205
+https://internshala.com/application/form/product-development-internship-in-bangalore-at-crewkarma1567669770
